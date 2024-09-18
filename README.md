@@ -7,3 +7,6 @@ High-resolution stellar spectra offer valuable insights into atmospheric paramet
 
 ## Key Words
 Dimensionality Reduction; Chemical Abundances, APOGEE, Neural Network
+
+## Dataset
+https://www.sdss4.org/dr17/data_access/
